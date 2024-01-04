@@ -1,4 +1,4 @@
-# BlogItToYa
+### BlogItToYa
 BlogItToYa is the newest internet-bound blogging application. Using BlogItToYa, you can write about any topic you like,
 edit, and update those posts in a concise format.
 
